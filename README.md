@@ -1,0 +1,1 @@
+A sampleapp from the rails tutorial from Michael Hartl to learn the ins and outs of rails.
